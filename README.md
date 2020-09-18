@@ -1,6 +1,6 @@
 # healthcare-management
 
-1. Unzip the file. Import to Intellij or Eclipse
+1. Import the file. Import to Intellij or Eclipse
 
 2. Install Mariadb in local or in any VM.  You need to create user in that db - called "healthcare" with password "healthcare" .
 
